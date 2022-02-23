@@ -1,0 +1,6 @@
+scikit-learn
+numpy
+tqdm
+pandas
+imageio
+pycm==3.4
